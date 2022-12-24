@@ -1,0 +1,6 @@
+/Users/alikeyvaz/RiderProjects/evtapsiriqispacial/evtapsiriqispacial/obj/Debug/evtapsiriqispacial.csproj.AssemblyReference.cache
+/Users/alikeyvaz/RiderProjects/evtapsiriqispacial/evtapsiriqispacial/obj/Debug/evtapsiriqispacial.csproj.CoreCompileInputs.cache
+/Users/alikeyvaz/RiderProjects/evtapsiriqispacial/evtapsiriqispacial/bin/Debug/evtapsiriqispacial.exe
+/Users/alikeyvaz/RiderProjects/evtapsiriqispacial/evtapsiriqispacial/bin/Debug/evtapsiriqispacial.pdb
+/Users/alikeyvaz/RiderProjects/evtapsiriqispacial/evtapsiriqispacial/obj/Debug/evtapsiriqispacial.exe
+/Users/alikeyvaz/RiderProjects/evtapsiriqispacial/evtapsiriqispacial/obj/Debug/evtapsiriqispacial.pdb
